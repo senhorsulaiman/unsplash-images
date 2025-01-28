@@ -161,3 +161,6 @@ Therefore, without including searchTerm in the queryKey array, the useQuery hook
 #### Vite ENV Vars
 
 - .env : must be included in .gitignore
+
+### Site link
+https://dashing-moxie-ced0c8.netlify.app/
